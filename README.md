@@ -1,0 +1,1 @@
+Hi everyone, I am excited to share my work on Power Bi where I created an interactive dashboard on World Happiness Report from the year 2015-20. I first gather data for different years and cleaned them as they had different fields, null values, etc. I used bookmarks and buttons for hiding/showing the slicer
